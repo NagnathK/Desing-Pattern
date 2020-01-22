@@ -1,0 +1,10 @@
+E:\Practials\Facade\bin\Debug\netcoreapp3.0\Facade.exe
+E:\Practials\Facade\bin\Debug\netcoreapp3.0\Facade.deps.json
+E:\Practials\Facade\bin\Debug\netcoreapp3.0\Facade.runtimeconfig.json
+E:\Practials\Facade\bin\Debug\netcoreapp3.0\Facade.runtimeconfig.dev.json
+E:\Practials\Facade\bin\Debug\netcoreapp3.0\Facade.dll
+E:\Practials\Facade\bin\Debug\netcoreapp3.0\Facade.pdb
+E:\Practials\Facade\obj\Debug\netcoreapp3.0\Facade.AssemblyInfoInputs.cache
+E:\Practials\Facade\obj\Debug\netcoreapp3.0\Facade.AssemblyInfo.cs
+E:\Practials\Facade\obj\Debug\netcoreapp3.0\Facade.dll
+E:\Practials\Facade\obj\Debug\netcoreapp3.0\Facade.pdb

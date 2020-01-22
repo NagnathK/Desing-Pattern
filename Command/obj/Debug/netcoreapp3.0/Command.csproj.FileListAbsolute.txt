@@ -1,0 +1,10 @@
+E:\Practials\Command\bin\Debug\netcoreapp3.0\Command.exe
+E:\Practials\Command\bin\Debug\netcoreapp3.0\Command.deps.json
+E:\Practials\Command\bin\Debug\netcoreapp3.0\Command.runtimeconfig.json
+E:\Practials\Command\bin\Debug\netcoreapp3.0\Command.runtimeconfig.dev.json
+E:\Practials\Command\bin\Debug\netcoreapp3.0\Command.dll
+E:\Practials\Command\bin\Debug\netcoreapp3.0\Command.pdb
+E:\Practials\Command\obj\Debug\netcoreapp3.0\Command.AssemblyInfoInputs.cache
+E:\Practials\Command\obj\Debug\netcoreapp3.0\Command.AssemblyInfo.cs
+E:\Practials\Command\obj\Debug\netcoreapp3.0\Command.dll
+E:\Practials\Command\obj\Debug\netcoreapp3.0\Command.pdb

@@ -1,0 +1,10 @@
+E:\Practials\Composite Advanced\bin\Debug\netcoreapp3.0\Composite Advanced.exe
+E:\Practials\Composite Advanced\bin\Debug\netcoreapp3.0\Composite Advanced.deps.json
+E:\Practials\Composite Advanced\bin\Debug\netcoreapp3.0\Composite Advanced.runtimeconfig.json
+E:\Practials\Composite Advanced\bin\Debug\netcoreapp3.0\Composite Advanced.runtimeconfig.dev.json
+E:\Practials\Composite Advanced\bin\Debug\netcoreapp3.0\Composite Advanced.dll
+E:\Practials\Composite Advanced\bin\Debug\netcoreapp3.0\Composite Advanced.pdb
+E:\Practials\Composite Advanced\obj\Debug\netcoreapp3.0\Composite Advanced.AssemblyInfoInputs.cache
+E:\Practials\Composite Advanced\obj\Debug\netcoreapp3.0\Composite Advanced.AssemblyInfo.cs
+E:\Practials\Composite Advanced\obj\Debug\netcoreapp3.0\Composite Advanced.dll
+E:\Practials\Composite Advanced\obj\Debug\netcoreapp3.0\Composite Advanced.pdb

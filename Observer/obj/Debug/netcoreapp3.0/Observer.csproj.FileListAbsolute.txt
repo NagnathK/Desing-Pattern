@@ -1,0 +1,10 @@
+E:\Practials\Observer\bin\Debug\netcoreapp3.0\Observer.exe
+E:\Practials\Observer\bin\Debug\netcoreapp3.0\Observer.deps.json
+E:\Practials\Observer\bin\Debug\netcoreapp3.0\Observer.runtimeconfig.json
+E:\Practials\Observer\bin\Debug\netcoreapp3.0\Observer.runtimeconfig.dev.json
+E:\Practials\Observer\bin\Debug\netcoreapp3.0\Observer.dll
+E:\Practials\Observer\bin\Debug\netcoreapp3.0\Observer.pdb
+E:\Practials\Observer\obj\Debug\netcoreapp3.0\Observer.AssemblyInfoInputs.cache
+E:\Practials\Observer\obj\Debug\netcoreapp3.0\Observer.AssemblyInfo.cs
+E:\Practials\Observer\obj\Debug\netcoreapp3.0\Observer.dll
+E:\Practials\Observer\obj\Debug\netcoreapp3.0\Observer.pdb

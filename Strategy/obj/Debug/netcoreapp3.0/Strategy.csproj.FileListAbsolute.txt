@@ -1,0 +1,11 @@
+E:\Practials\Strategy\bin\Debug\netcoreapp3.0\Strategy.exe
+E:\Practials\Strategy\bin\Debug\netcoreapp3.0\Strategy.deps.json
+E:\Practials\Strategy\bin\Debug\netcoreapp3.0\Strategy.runtimeconfig.json
+E:\Practials\Strategy\bin\Debug\netcoreapp3.0\Strategy.runtimeconfig.dev.json
+E:\Practials\Strategy\bin\Debug\netcoreapp3.0\Strategy.dll
+E:\Practials\Strategy\bin\Debug\netcoreapp3.0\Strategy.pdb
+E:\Practials\Strategy\obj\Debug\netcoreapp3.0\Strategy.AssemblyInfoInputs.cache
+E:\Practials\Strategy\obj\Debug\netcoreapp3.0\Strategy.AssemblyInfo.cs
+E:\Practials\Strategy\obj\Debug\netcoreapp3.0\Strategy.dll
+E:\Practials\Strategy\obj\Debug\netcoreapp3.0\Strategy.pdb
+E:\Practials\Strategy\obj\Debug\netcoreapp3.0\Strategy.csprojAssemblyReference.cache

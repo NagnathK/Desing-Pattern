@@ -1,0 +1,13 @@
+E:\Practials\Adapter\bin\Debug\netcoreapp3.0\Adapter.exe
+E:\Practials\Adapter\obj\Debug\netcoreapp3.0\Adapter.csprojAssemblyReference.cache
+E:\Practials\Adapter\obj\Debug\netcoreapp3.0\Adapter.AssemblyInfoInputs.cache
+E:\Practials\Adapter\obj\Debug\netcoreapp3.0\Adapter.AssemblyInfo.cs
+E:\Practials\Adapter\bin\Debug\netcoreapp3.0\Adapter.deps.json
+E:\Practials\Adapter\bin\Debug\netcoreapp3.0\Adapter.runtimeconfig.json
+E:\Practials\Adapter\bin\Debug\netcoreapp3.0\Adapter.runtimeconfig.dev.json
+E:\Practials\Adapter\bin\Debug\netcoreapp3.0\Adapter.dll
+E:\Practials\Adapter\bin\Debug\netcoreapp3.0\Adapter.pdb
+E:\Practials\Adapter\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+E:\Practials\Adapter\obj\Debug\netcoreapp3.0\Adapter.csproj.CopyComplete
+E:\Practials\Adapter\obj\Debug\netcoreapp3.0\Adapter.dll
+E:\Practials\Adapter\obj\Debug\netcoreapp3.0\Adapter.pdb

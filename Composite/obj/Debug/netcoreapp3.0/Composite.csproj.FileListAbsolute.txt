@@ -1,0 +1,10 @@
+E:\Practials\Composite\bin\Debug\netcoreapp3.0\Composite.exe
+E:\Practials\Composite\bin\Debug\netcoreapp3.0\Composite.deps.json
+E:\Practials\Composite\bin\Debug\netcoreapp3.0\Composite.runtimeconfig.json
+E:\Practials\Composite\bin\Debug\netcoreapp3.0\Composite.runtimeconfig.dev.json
+E:\Practials\Composite\bin\Debug\netcoreapp3.0\Composite.dll
+E:\Practials\Composite\bin\Debug\netcoreapp3.0\Composite.pdb
+E:\Practials\Composite\obj\Debug\netcoreapp3.0\Composite.AssemblyInfoInputs.cache
+E:\Practials\Composite\obj\Debug\netcoreapp3.0\Composite.AssemblyInfo.cs
+E:\Practials\Composite\obj\Debug\netcoreapp3.0\Composite.dll
+E:\Practials\Composite\obj\Debug\netcoreapp3.0\Composite.pdb

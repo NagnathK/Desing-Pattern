@@ -1,0 +1,10 @@
+E:\Practials\Proxy\bin\Debug\netcoreapp3.0\Proxy.exe
+E:\Practials\Proxy\bin\Debug\netcoreapp3.0\Proxy.deps.json
+E:\Practials\Proxy\bin\Debug\netcoreapp3.0\Proxy.runtimeconfig.json
+E:\Practials\Proxy\bin\Debug\netcoreapp3.0\Proxy.runtimeconfig.dev.json
+E:\Practials\Proxy\bin\Debug\netcoreapp3.0\Proxy.dll
+E:\Practials\Proxy\bin\Debug\netcoreapp3.0\Proxy.pdb
+E:\Practials\Proxy\obj\Debug\netcoreapp3.0\Proxy.AssemblyInfoInputs.cache
+E:\Practials\Proxy\obj\Debug\netcoreapp3.0\Proxy.AssemblyInfo.cs
+E:\Practials\Proxy\obj\Debug\netcoreapp3.0\Proxy.dll
+E:\Practials\Proxy\obj\Debug\netcoreapp3.0\Proxy.pdb

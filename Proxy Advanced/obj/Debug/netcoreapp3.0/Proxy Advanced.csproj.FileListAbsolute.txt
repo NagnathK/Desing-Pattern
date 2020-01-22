@@ -1,0 +1,10 @@
+E:\Practials\Proxy Advanced\bin\Debug\netcoreapp3.0\Proxy Advanced.exe
+E:\Practials\Proxy Advanced\bin\Debug\netcoreapp3.0\Proxy Advanced.deps.json
+E:\Practials\Proxy Advanced\bin\Debug\netcoreapp3.0\Proxy Advanced.runtimeconfig.json
+E:\Practials\Proxy Advanced\bin\Debug\netcoreapp3.0\Proxy Advanced.runtimeconfig.dev.json
+E:\Practials\Proxy Advanced\bin\Debug\netcoreapp3.0\Proxy Advanced.dll
+E:\Practials\Proxy Advanced\bin\Debug\netcoreapp3.0\Proxy Advanced.pdb
+E:\Practials\Proxy Advanced\obj\Debug\netcoreapp3.0\Proxy Advanced.AssemblyInfoInputs.cache
+E:\Practials\Proxy Advanced\obj\Debug\netcoreapp3.0\Proxy Advanced.AssemblyInfo.cs
+E:\Practials\Proxy Advanced\obj\Debug\netcoreapp3.0\Proxy Advanced.dll
+E:\Practials\Proxy Advanced\obj\Debug\netcoreapp3.0\Proxy Advanced.pdb
